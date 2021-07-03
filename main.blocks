@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="-r]{WeyaFYbLftCE,PRq" x="472" y="0"/><block type="pxt-on-start" id="Pet;v2DMc_$z#jzc{B1V" x="677" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="h_:*teTcRRs^G2XXk,3g"><field name="i">IconNames.Angry</field></block></statement></block></xml>
